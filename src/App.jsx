@@ -1,12 +1,9 @@
+const App = () => {
+    return (
+        <div>
+            
+        </div>
+    );
+};
 
-function App() {
-  return (
-    <>
-      <div>
-        <h1>atik</h1>
-      </div>
-    </>
-  )
-}
-
-export default App
+export default App;
